@@ -2,7 +2,7 @@
 alias grep='grep --color=auto'
 alias ls='ls --color=auto'
 
-
+#install git vim tmux xclip zsh
 
 ############################################################
 session_name="0"
