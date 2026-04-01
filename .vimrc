@@ -2,6 +2,7 @@ set background=dark
 colorscheme lunaperche
 set termguicolors
 syntax on
+set scrolloff=999
 set ruler
 set backspace=indent,eol,start
 set ignorecase
