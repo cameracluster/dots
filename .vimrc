@@ -22,6 +22,8 @@ inoremap <Down>  <ESC>:echoe "Use j"<CR>
 " set relativenumber
 set nohlsearch
 set whichwrap+=<,>,h,l
+set wrap
+set linebreak
 set tabstop=4
 set shiftwidth=4
 set expandtab
